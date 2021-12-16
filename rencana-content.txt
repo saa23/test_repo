@@ -2,5 +2,9 @@ RENCANA KONTEN
 - Python
 - Machine Learning
 - Deep Learning
-- Struktur algoritma dasar
-- Angular
+- reinforcement learning
+- Struktur data dasar
+- Javascript
+  - Viu
+  - ReactJS
+ - Laravel
