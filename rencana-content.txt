@@ -3,3 +3,4 @@ RENCANA KONTEN
 - Machine Learning
 - Deep Learning
 - reinforcement learning
+- Struktur data dasar
