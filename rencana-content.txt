@@ -2,5 +2,5 @@ RENCANA KONTEN
 - Python
 - Machine Learning
 - Deep Learning
-- reinforcement learning
-- Struktur data dasar
+- Struktur algoritma dasar
+- Angular
