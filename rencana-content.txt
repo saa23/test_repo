@@ -4,3 +4,7 @@ RENCANA KONTEN
 - Deep Learning
 - reinforcement learning
 - Struktur data dasar
+- Javascript
+  - Viu
+  - ReactJS
+ - Laravel
