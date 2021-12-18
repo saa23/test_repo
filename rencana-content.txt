@@ -8,3 +8,5 @@ RENCANA KONTEN
   - Viu
   - ReactJS
  - Laravel
+ - Language:
+   -Bahasa
